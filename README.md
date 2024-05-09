@@ -1,5 +1,11 @@
-# Landing page using React + Vite
+# Landing page using React + Vite    
+[Visit site ](https://landing-page-react-snowy.vercel.app/)
 
+ This is a UI Only React application with minimal functionalities such as 
+ - Image slider
+ - FAQ's
+ - Live image number updater 
+     
 ## Prerequisites
 
 Make sure you have the following installed on your system:
@@ -15,7 +21,7 @@ Make sure you have the following installed on your system:
     git clone https://github.com/abhishekbodkhe/Landing-page-React.git
     ```
 
-2. **Navigate to the project directory**:
+2. **Navigate to the project directory** 
 
 
 3. **Install dependencies**:
@@ -31,8 +37,6 @@ Make sure you have the following installed on your system:
     ```
 
     This will start the development server, and your the application should be accessible at `http://localhost:5173/`.
-
-## Screenshot
 
 ## Licence
 
